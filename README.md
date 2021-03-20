@@ -10,7 +10,7 @@ Languages used: HTML, CSS
 Frameworks used: Bootstrap
 
 
-Github Homework link: 
+Github Homework link: https://kokhobyohannes.github.io/PortfolioUpdate/
 
 
 Repository link: https://github.com/KokhobYohannes/PortfolioUpdate
